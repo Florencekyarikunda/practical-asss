@@ -9,7 +9,7 @@ for Z in x:
 
 
 # number 2
-def divisible_by_three(n):
+def divisible_by_three(self):
     range(1_200)
     for n in range(1-200):
         if n%3==0:
@@ -27,7 +27,7 @@ def smallest(self,numbers):
     numbers=(3,6,8,2,4,1,5,7)
 # number 5
 x = ['a','b','a','e','d','b','c','e','f','g','h']
-x.remove()
+x.dupicate()
 print(x)
 
 # # number6
@@ -60,11 +60,14 @@ class Rectangle:
         Area= PI*(width*width*length*length)
         print("Area of a rectangle= " Area(6,6,6,6))
 
-# #number 8 ii      
+ #number 8 ii      
     def perimeter(self,width,length):
         self.length=length
         self.width=width
         P=2(length+width)
+
+        Rec=Rectangle(4,6)
+        print(Rec)
 
 
 
